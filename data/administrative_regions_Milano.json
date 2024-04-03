@@ -1,0 +1,640 @@
+{
+  "count": 16,
+  "items": [
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 1026,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 102,
+      "acheneID": "http://dandelion.eu/resource/18a5ea86c5e5c1823a33d85a1c262dd1889ff49a",
+      "name": "Chiaravalle",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610002",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": "http://www.comune.milano.it",
+      "population": {
+        "2001": null,
+        "2011": 1240173
+      },
+      "cadastralCode": "F205",
+      "elevation": 122,
+      "acheneID": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d",
+      "name": "Milano",
+      "level": 60,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.180179393419559,
+              45.536275307397275
+            ],
+            [
+              9.180198436196461,
+              45.53602735070457
+            ],
+            "..."
+          ]
+        ]
+      },
+      "provenance": [
+        "Geonames",
+        "ISTAT",
+        "SpazioDati",
+        "SpazioDati Partner",
+        "Wikipedia in Italiano"
+      ],
+      "wikipedia": {
+        "de": "http://de.wikipedia.org/wiki/Mailand",
+        "en": "http://en.wikipedia.org/wiki/Milan",
+        "it": "http://it.wikipedia.org/wiki/Milano"
+      },
+      "isProvinceCheflieu": true,
+      "postCodes": [
+        "20121",
+        "20162"
+      ],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": null
+      },
+      "alternateNames": [
+        "Comune di Milano",
+        "Mailand",
+        "Milan"
+      ],
+      "localCode": "015146",
+      "isMountainMunicipality": "NM",
+      "geomComplex": {
+        "provenance": 0,
+        "accuracy": 100
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 57,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 123,
+      "acheneID": "http://dandelion.eu/resource/3363f475cb554e1d4e9b5aab826893d6fd22534a",
+      "name": "Cascina Guascona",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514620003",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 17,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 584,
+      "acheneID": "http://dandelion.eu/resource/9711a8a546a82e529e8aa6a6fac106e9d5fde75e",
+      "name": "Milano",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/503275fddd51927aa6b5c1f4ce86956612c5601a",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/24a4cd6026b00ca8d9d58883117bf0d5212c9908"
+      },
+      "alternateNames": [],
+      "localCode": "01602320011",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 332,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 105,
+      "acheneID": "http://dandelion.eu/resource/b039f3941057ef567d93c3cd97864bc947ac91bb",
+      "name": "Ronchetto delle Rane",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610009",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 16,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 106,
+      "acheneID": "http://dandelion.eu/resource/304b1a7aa520bd875702297588f231ea38be1e04",
+      "name": "Cascina Selvanesco-Gaggiolo",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514620002",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 18,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 105,
+      "acheneID": "http://dandelion.eu/resource/f4198def147057d16b6a57c22189251a77e8033d",
+      "name": "Chiesa Rossa",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610003",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 1251132,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 122,
+      "acheneID": "http://dandelion.eu/resource/4ae4a94478907ef84d8d70050ad3974b8e6d06fc",
+      "name": "Milano",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610006",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 42,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 635,
+      "acheneID": "http://dandelion.eu/resource/cf3aaad866aed2c65b7b1ffe37665fddbee08d9c",
+      "name": "Milano",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/eca1fd8b20b6192a6a44807869ebe41b333cee3a",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/bfce8c7f429ae76242ed28c114114182dc2b4672",
+        "macroregion": "http://dandelion.eu/resource/6178e6e63a5f11399dc6d914d2deef34da219d74",
+        "municipality": "http://dandelion.eu/resource/c1bf9bacce28781b34eb63481bb0505bece23030"
+      },
+      "alternateNames": [],
+      "localCode": "05405120035",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 267,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 112,
+      "acheneID": "http://dandelion.eu/resource/4b902704dd1f8ec361f8a8a2f337e6cfcfadc7e5",
+      "name": "Cantalupa",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514620005",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 1598,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 138,
+      "acheneID": "http://dandelion.eu/resource/516b1c261b9a3b40d0ce32d11aca9c812182a756",
+      "name": "Figino",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610004",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 50,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 171,
+      "acheneID": "http://dandelion.eu/resource/6d00f13d0586ae41a260c37eccc8ce608a752cf4",
+      "name": "Milano",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/503275fddd51927aa6b5c1f4ce86956612c5601a",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/aceb04ea86114eca054f097afd48de0d7609c21c"
+      },
+      "alternateNames": [],
+      "localCode": "01602920001",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 26,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 106,
+      "acheneID": "http://dandelion.eu/resource/b9310217db140a89688c591700e5e0c614719a73",
+      "name": "Cascina Cascinetta",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514620004",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 153,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 108,
+      "acheneID": "http://dandelion.eu/resource/a2fbabeecc7c5160e206b8034bb62f8995774484",
+      "name": "Vaiano Valle",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514620006",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 22,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 127,
+      "acheneID": "http://dandelion.eu/resource/0fb2982c45b2dccfbc1025f94f459a887a094376",
+      "name": "Cascina Malandra",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610005",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    },
+    {
+      "euroCode": null,
+      "website": null,
+      "population": {
+        "2001": 7,
+        "2011": null
+      },
+      "cadastralCode": null,
+      "elevation": 140,
+      "acheneID": "http://dandelion.eu/resource/8e00704ed3031dc9d1bf16b455b3f6c3c886ae5e",
+      "name": "Belgioioso",
+      "level": 70,
+      "geometry": null,
+      "provenance": [
+        "ISTAT"
+      ],
+      "wikipedia": {
+        "de": null,
+        "en": null,
+        "it": null
+      },
+      "isProvinceCheflieu": null,
+      "postCodes": [],
+      "parentAchenes": {
+        "province": "http://dandelion.eu/resource/6abe2c449edd346c8f3c1311c4ad62ae78a486fd",
+        "country": "http://dandelion.eu/resource/725732d9517df4b5171e627c4dbd3285efb5f8cf",
+        "region": "http://dandelion.eu/resource/4a82e0a0c15ec5d29ad9366339c754a301feeb9b",
+        "macroregion": "http://dandelion.eu/resource/e74b9482c88dc085ae084551fbdd62d255d5a78f",
+        "municipality": "http://dandelion.eu/resource/2bf72cfc3857f470be5457dc4aa77e578889e32d"
+      },
+      "alternateNames": [],
+      "localCode": "01514610001",
+      "isMountainMunicipality": null,
+      "geomComplex": {
+        "provenance": null,
+        "accuracy": null
+      }
+    }
+  ],
+  "datagem-version": "a0b4b0b4c12db9bca81b5313a9f3481d823b263f"
+}
